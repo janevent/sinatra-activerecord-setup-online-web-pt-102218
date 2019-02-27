@@ -14,7 +14,7 @@ group :development do
 	gem 'shotgun'
 	gem 'pry'
 	gem 'tux'
-	gem 'sqlite3', '~> 1.4'
+	gem 'sqlite3', '~> 1.3.6'
 # 	gem 'hoe', '~> 3.17', '>= 3.17.1'
 # 	gem 'hoe-bundler', '~> 1.5'
 # 	gem 'hoe-gemspec', '~> 1.0'
